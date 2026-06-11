@@ -105,6 +105,6 @@ cli-ecommerce-backend/
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author: Saad Sufyan
 
 Python learning project built for mastering OOP and backend fundamentals.
